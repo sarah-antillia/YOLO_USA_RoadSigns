@@ -1,6 +1,6 @@
-<h2> YOLO_USA_RoadSigns</h2>
-<h3> USA RoadSigns</h3>
-This is a USA RoadSigns dataset annotated by YOLO format. It contains 158 classes,and each image size is 512x512.
+<h1> YOLO_USA_RoadSigns</h1>
+<h2> USA RoadSigns</h2>
+This is a USA RoadSigns dataset annotated by YOLO format. It contains 154 classes,and each image size is 512x512.
 
 This dataset is created based on <a href="https://en.wikipedia.org/wiki/Road_signs_in_the_United_States">Road signs in the United States.</a> <br>
 The master images are augmented by using <a href="https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/image/ImageDataGenerator">ImageDataGenerator Tool of Tensorflow-Keras.</a>
@@ -14,11 +14,11 @@ Manual on Uniform Traffic Control Devices(MUTCD)
 <br>
 
 <br>
-<h3>Images of Base USA RoadSigns</h3> 
+<h2>Images of Base USA RoadSigns</h2> 
 <a href="./USA_RoadSigns_158classes">USA RoadSigns</a><br>
 <br>
 
-<h3>Classes of USA RoadSigns</h3>
+<h2>153 Classes of USA RoadSigns</h2>
 <pre>
 270_degree_loop
 Added_lane
@@ -64,9 +64,7 @@ Hill_bicycle
 Horizontal_alignment_intersection
 Horse_drawn_vehicle_ahead
 Keep_left
-Keep_left_2
 Keep_right
-Keep_right_2
 Lane_ends
 Left_lane
 Left_turn_only
@@ -97,7 +95,6 @@ No_outlet
 No_parking
 No_parking_bus_stop
 No_parking_from_830am_to_530pm
-No_parking_from_830am_to_530pm_2
 No_parking_in_fire_lane
 No_parking_Loading_zone
 No_parking_on_pavement
@@ -157,8 +154,6 @@ Stop_here_for_pedestrians
 Stop_here_for_peds
 Straight_ahead_only
 Tractor_farm_vehicle_crossing
-Tractor_farm_vehicle_crossing_2
-Truck_crossing_2
 Truck_crossing
 Truck_rollover_warning
 Truck_route_sign
