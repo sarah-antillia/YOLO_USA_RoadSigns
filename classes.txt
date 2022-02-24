@@ -42,9 +42,7 @@ Hill_bicycle
 Horizontal_alignment_intersection
 Horse_drawn_vehicle_ahead
 Keep_left
-Keep_left_2
 Keep_right
-Keep_right_2
 Lane_ends
 Left_lane
 Left_turn_only
@@ -75,7 +73,6 @@ No_outlet
 No_parking
 No_parking_bus_stop
 No_parking_from_830am_to_530pm
-No_parking_from_830am_to_530pm_2
 No_parking_in_fire_lane
 No_parking_Loading_zone
 No_parking_on_pavement
@@ -135,8 +132,6 @@ Stop_here_for_pedestrians
 Stop_here_for_peds
 Straight_ahead_only
 Tractor_farm_vehicle_crossing
-Tractor_farm_vehicle_crossing_2
-Truck_crossing_2
 Truck_crossing
 Truck_rollover_warning
 Truck_route_sign
