@@ -1,6 +1,9 @@
 <h1> YOLO_USA_RoadSigns</h1>
 <h2> USA RoadSigns</h2>
-This is a USA RoadSigns dataset annotated by YOLO format. It contains 154 classes,and each image size is 512x512.
+This is a USA RoadSigns dataset annotated by YOLO format.<br>
+ The dataset YOLO_USA_RoadSigns contains 153 classes,and each image size is 512x512.<br>
+ The dataset YOLO_USA_RoadSigns_86classes contains 86 classes,and each image size is 512x512.<br>
+<br>
 
 This dataset is created based on <a href="https://en.wikipedia.org/wiki/Road_signs_in_the_United_States">Road signs in the United States.</a> <br>
 The master images are augmented by using <a href="https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/image/ImageDataGenerator">ImageDataGenerator Tool of Tensorflow-Keras.</a>
