@@ -15,7 +15,30 @@ See also:<br>
 Manual on Uniform Traffic Control Devices(MUTCD)
 </a>
 <br>
+<h2>
+YOLO annotated dataset
+</h2>
+We have created the following YOLO annotated dataset.<br>
+<a href="./YOLO_USA_RoadSigns_86classes_Medium.zip">YOLO_USA_RoadSigns_86classes_Medium</a><br>
+<a href="./YOLO_USA_RoadSigns_86classes_Small.zip">YOLO_USA_RoadSigns_86classes_Small</a><br>
+<a href="./YOLO_USA_RoadSigns_86classes_Tiny.zip">YOLO_USA_RoadSigns_86classes_Tiny</a><br>
+<br>
+Sample images: Addedd_lane class<br>
+<table>
+<tr>
+<td>
+Medium<br><img src="./YOLO_USA_RoadSigns_86classes_Medium/valid/Added_lane_0_102.jpg">
+</td>
+<td>
+Small<br><img src="./YOLO_USA_RoadSigns_86classes_Small/valid/Added_lane_0_461.jpg">
+</td>
+<td>
+Tiny<br><img src="./YOLO_USA_RoadSigns_86classes_Tiny/valid/Added_lane_1_0_3189.jpg">
+</td>
+</tr>
+</table>
 
+<br>
 <br>
 <h2>Images of Base USA RoadSigns</h2>
 Taken from <a href="https://en.wikipedia.org/wiki/Road_signs_in_the_United_States">Road signs in the United States.</a>.
